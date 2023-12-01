@@ -9,3 +9,5 @@ print("Hi, I am learning Python") --> Hi, I am learning Python
 Program 2: This program shows how to take user input and perform basic operations like addition, subtraction, multiplication and division.
 Here, we used a simple predefined function i.e., input() --> It always accepts values from use and convert the given value into str datatype.
 To perform mathematical calculations, we need numeric datatypes like int, float or complex.
+In this program, we have converted the values given by user from str to int
+int() --> converts into int datatype
