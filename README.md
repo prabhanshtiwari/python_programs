@@ -15,3 +15,7 @@ For additon, we used the formula, addition = num1 + num2, here, addition variabl
 For subtraction, we used the formula, subtraction = num1 - num2, here, num2 will get subtracted from num1, and subtraction variable will contain the result of num1 - num2
 For multiplication, we used the formula, product = num 1 * num2, here, product variable will contain the result of num1 * num2
 For division, we used the formula, num1 / num2, here we are considering num1 as numerator and num2 as denominator. For the process of division, we are using if-else statement. If the given condition i.e., (num2 != 0) is true, then "quotient = num1 / num2" is executed. If the condition is false, then the string "Can't divide by zero" gets printed.
+
+Program 3: In this program, we have used three variables (height, width and depth) and we calculated the volume of cube by using the formula "volume = height * width * depth" and then we displayed this volume on the screen.
+
+Program 4: 
