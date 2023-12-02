@@ -11,3 +11,7 @@ Here, we used a simple predefined function i.e., input() --> It always accepts v
 To perform mathematical calculations, we need numeric datatypes like int, float or complex.
 In this program, we have converted the values given by user from str to int
 int() --> converts into int datatype
+For additon, we used the formula, addition = num1 + num2, here, addition variable will contain the result of num1 + num2
+For subtraction, we used the formula, subtraction = num1 - num2, here, num2 will get subtracted from num1, and subtraction variable will contain the result of num1 - num2
+For multiplication, we used the formula, product = num 1 * num2, here, product variable will contain the result of num1 * num2
+For division, we used the formula, num1 / num2, here we are considering num1 as numerator and num2 as denominator. For the process of division, we are using if-else statement. If the given condition i.e., (num2 != 0) is true, then "quotient = num1 / num2" is executed. If the condition is false, then the string "Can't divide by zero" gets printed.
