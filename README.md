@@ -35,4 +35,6 @@ Area of triangle -->  area=√ (s(s-a)*(s-b)*(s-c)) or use (s(s-a)*(s-b)*(s-c))*
 
 Program 9: In this program, we have calculated the area and perimeter of rectangle after taking input from the user.
 
-Program 10: 
+Program 10: In this program, we have calculated simple interest and compound interest after accepting principal amount, rate of interest and time.
+
+Program 11: 
