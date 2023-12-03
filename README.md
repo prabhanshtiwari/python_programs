@@ -29,4 +29,8 @@ Program 6: In this program, we tried to solve the given equations based on the g
 
 Program 7: In this program, we tried to show you the use of type() function. type() function is used to get the datatype of any variable.
 
-Program 8: 
+Program 8: In this program, we have calculated the semi-perimeter and area of the triangle by using Heron's Formula.
+Semi-perimeter --> s=(a+b+c)/2
+Area of triangle -->  area=√ (s(s-a)*(s-b)*(s-c)) or use (s(s-a)*(s-b)*(s-c))**0.5
+
+Program 9: 
