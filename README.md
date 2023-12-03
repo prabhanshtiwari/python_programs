@@ -33,4 +33,6 @@ Program 8: In this program, we have calculated the semi-perimeter and area of th
 Semi-perimeter --> s=(a+b+c)/2
 Area of triangle -->  area=√ (s(s-a)*(s-b)*(s-c)) or use (s(s-a)*(s-b)*(s-c))**0.5
 
-Program 9: 
+Program 9: In this program, we have calculated the area and perimeter of rectangle after taking input from the user.
+
+Program 10: 
