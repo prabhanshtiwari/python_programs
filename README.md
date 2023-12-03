@@ -25,4 +25,6 @@ Formula for sum and average are given:
 sum = sum of total given numbers = number1 + number2 + number3 + number4 + number5
 average = sum of total given numbers / total number of given numbers = sum / 5
 
-Program 6: 
+Program 6: In this program, we tried to solve the given equations based on the given values.
+
+Program 7: 
