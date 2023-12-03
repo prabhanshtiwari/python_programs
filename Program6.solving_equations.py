@@ -1,5 +1,5 @@
 # Write a python program to solve the following equation.
-# a. (x+y)*(x+y) where x=10 & y=20
+# a. (x+y)*(x-y) where x=10 & y=20
 # b. (a+b)2 where a=5 & b=3
 # c. (x+y+z)5 where x=3,y=5 & z=7
 
