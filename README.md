@@ -27,4 +27,6 @@ average = sum of total given numbers / total number of given numbers = sum / 5
 
 Program 6: In this program, we tried to solve the given equations based on the given values.
 
-Program 7: 
+Program 7: In this program, we tried to show you the use of type() function. type() function is used to get the datatype of any variable.
+
+Program 8: 
