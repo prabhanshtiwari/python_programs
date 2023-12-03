@@ -37,4 +37,6 @@ Program 9: In this program, we have calculated the area and perimeter of rectang
 
 Program 10: In this program, we have calculated simple interest and compound interest after accepting principal amount, rate of interest and time.
 
-Program 11: 
+Program 11: In this program, we accepted the name, roll number and marks obtained in four subject by the student. Then, we calculated total marks obtained by the student and also calculated percentage assuming that maximum marks of each subject is 100. Then, we displayed the name, roll number, total marks obtained by the student and percentage.
+
+Program 12: 
