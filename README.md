@@ -20,4 +20,9 @@ Program 3: In this program, we have used three variables (height, width and dept
 
 Program 4: In this program, we have taken radius as input, and we have displayed the area and circumference of circle on the screen.
 
-Program 5: 
+Program 5: This is the program fro calculating "sum" anf "average".
+Formula for sum and average are given: 
+sum = sum of total given numbers = number1 + number2 + number3 + number4 + number5
+average = sum of total given numbers / total number of given numbers = sum / 5
+
+Program 6: 
