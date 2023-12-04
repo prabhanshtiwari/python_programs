@@ -53,4 +53,7 @@ a = a ^ b
 b = a ^ b
 a = a ^ b
 
-Program 2.6: 
+Program 2.6: This is a simple program for currency conversion. 
+INR --> USD, INR --> pounds
+
+Program 2.7: 
