@@ -56,4 +56,6 @@ a = a ^ b
 Program 2.6: This is a simple program for currency conversion. 
 INR --> USD, INR --> pounds
 
-Program 2.7: 
+Program 2.7: This is a simple program for temperature conversion.
+
+Program 2.8: 
