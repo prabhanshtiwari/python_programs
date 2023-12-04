@@ -37,10 +37,10 @@ Program 9: In this program, we have calculated the area and perimeter of rectang
 
 Program 10: In this program, we have calculated simple interest and compound interest after accepting principal amount, rate of interest and time.
 
-Program 11: In this program, we accepted the name, roll number and marks obtained in four subject by the student. Then, we calculated total marks obtained by the student and also calculated percentage assuming that maximum marks of each subject is 100. Then, we displayed the name, roll number, total marks obtained by the student and percentage.
+Program 2.: In this program, we accepted the name, roll number and marks obtained in four subject by the student. Then, we calculated total marks obtained by the student and also calculated percentage assuming that maximum marks of each subject is 100. Then, we displayed the name, roll number, total marks obtained by the student and percentage.
 
-Program 12: In this program, first we accepted two values from the user, and then swapped these numbers using the third variable. Swapping refers to the process of exchanging the values of two variables. In programming, swapping is a common operation used to interchange the values stored in two variables. The goal is to make the value of one variable become the value of the other, and vice versa.
+Program 2.2: In this program, first we accepted two values from the user, and then swapped these numbers using the third variable. Swapping refers to the process of exchanging the values of two variables. In programming, swapping is a common operation used to interchange the values stored in two variables. The goal is to make the value of one variable become the value of the other, and vice versa.
 
-Program 13: In this program, we again swapped two numbers or any other type of values of your choice. Here, we used multiple assignment i.e., a, b = b, a --> here the value of a becomes value of b and value of b becomes value of a.
+Program 2.33: In this program, we again swapped two numbers or any other type of values of your choice. Here, we used multiple assignment i.e., a, b = b, a --> here the value of a becomes value of b and value of b becomes value of a.
 
-Program 14: 
+Program 2.4: 
