@@ -41,6 +41,11 @@ Program 2.: In this program, we accepted the name, roll number and marks obtaine
 
 Program 2.2: In this program, first we accepted two values from the user, and then swapped these numbers using the third variable. Swapping refers to the process of exchanging the values of two variables. In programming, swapping is a common operation used to interchange the values stored in two variables. The goal is to make the value of one variable become the value of the other, and vice versa.
 
-Program 2.33: In this program, we again swapped two numbers or any other type of values of your choice. Here, we used multiple assignment i.e., a, b = b, a --> here the value of a becomes value of b and value of b becomes value of a.
+Program 2.3: In this program, we again swapped two numbers or any other type of values of your choice. Here, we used multiple assignment i.e., a, b = b, a --> here the value of a becomes value of b and value of b becomes value of a.
 
-Program 2.4: 
+Program 2.4: This is also the program to swap two numbers. here, we just need to remember the logic i.e. given below
+a = a + b
+b = a - b
+a = a - b
+
+Program 2.5: 
