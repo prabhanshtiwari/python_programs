@@ -48,4 +48,9 @@ a = a + b
 b = a - b
 a = a - b
 
-Program 2.5: 
+Program 2.5: This is also the program to swap two numbers. here, we just need to remember the logic i.e. given below
+a = a ^ b
+b = a ^ b
+a = a ^ b
+
+Program 2.6: 
