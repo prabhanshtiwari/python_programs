@@ -69,3 +69,6 @@ then, we calculated the total price of the product and displayed on the screen.
 
 Program 2.10: This is a simple program, here we used string concatenation and int() to convert str to int.
 
+Program 3.001: This program checks whether the given number is odd or even
+
+
