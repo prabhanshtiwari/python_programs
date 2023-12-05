@@ -67,4 +67,5 @@ chr() function: chr() returns a string representing a character whose Unicode co
 Program 2.9: In this program, we accepted product name, product price and quantity of the product. 
 then, we calculated the total price of the product and displayed on the screen.
 
-Program 2.10: 
+Program 2.10: This is a simple program, here we used string concatenation and int() to convert str to int.
+
