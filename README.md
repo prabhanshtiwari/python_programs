@@ -58,4 +58,13 @@ INR --> USD, INR --> pounds
 
 Program 2.7: This is a simple program for temperature conversion.
 
-Program 2.8: 
+Program 2.8: This program shows the use of ord() and chr(). 
+ord() function: ord() returns an integer representing the Unicode character. For ASCII characters, it returns the ASCII value.
+                Syntax: ord(character)
+chr() function: chr() returns a string representing a character whose Unicode code point is the integer.
+                Syntax: chr(unicode_code_point)
+
+Program 2.9: In this program, we accepted product name, product price and quantity of the product. 
+then, we calculated the total price of the product and displayed on the screen.
+
+Program 2.10: 
