@@ -71,4 +71,4 @@ Program 2.10: This is a simple program, here we used string concatenation and in
 
 Program 3.001: This program checks whether the given number is odd or even
 
-
+Program3.002: This is a simple program to check whether the given number is prime or not
