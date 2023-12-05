@@ -75,3 +75,5 @@ Program3.002: This is a simple program to check whether the given number is prim
 
 Program3.003: This is a simple program for finding smallest and largest number between three numbers.
 
+Program3.004.marks_grade.py - This is a simple program for printing grades based on given marks.
+
