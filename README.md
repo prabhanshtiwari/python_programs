@@ -77,3 +77,4 @@ Program3.003: This is a simple program for finding smallest and largest number b
 
 Program3.004.marks_grade.py - This is a simple program for printing grades based on given marks.
 
+Create Program3.006.factorial.py - This is a simple program to calculate the factorial.
