@@ -82,4 +82,6 @@ Program3.006.factorial.py - This is a simple program to calculate the factorial.
 Program3.007.armstrong_no.py - This is a simple program to check whether the given number is Armstrong numbe or not.
 A number is said to be armstrong number if the sum of each digits raised to the power of total number of digits.
 
+Program3.008.positive_no_1_to_10.py - This is a simple program to print positive intergers from 1 to 10. Here, we have used while loop, we can also use for loop for this task.
+
 
