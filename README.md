@@ -77,4 +77,9 @@ Program3.003: This is a simple program for finding smallest and largest number b
 
 Program3.004.marks_grade.py - This is a simple program for printing grades based on given marks.
 
-Create Program3.006.factorial.py - This is a simple program to calculate the factorial.
+Program3.006.factorial.py - This is a simple program to calculate the factorial.
+
+Program3.007.armstrong_no.py - This is a simple program to check whether the given number is Armstrong numbe or not.
+A number is said to be armstrong number if the sum of each digits raised to the power of total number of digits.
+
+
