@@ -85,3 +85,5 @@ A number is said to be armstrong number if the sum of each digits raised to the 
 Program3.008.positive_no_1_to_10.py - This is a simple program to print positive intergers from 1 to 10. Here, we have used while loop, we can also use for loop for this task.
 
 
+Program3.010.sum_of_digits_of_number_using_for_loop.py - In this program, we have calculates the sum of digits of the given number using for loop.
+
